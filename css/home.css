@@ -1,0 +1,14 @@
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: #150222;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 2rem;
+}
